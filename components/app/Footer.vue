@@ -34,34 +34,24 @@ const links = [
 ];
 
 const socials = [
-  {
-    name: 'Twitter',
-    href: 'https://twitter.com/LaVilleaVelo',
-    icon: 'mdi:twitter'
-  },
-  {
+    {
     name: 'Facebook',
-    href: 'https://www.facebook.com/lavilleavelolyon/',
+    href: 'https://www.facebook.com/ociveloSte',
     icon: 'mdi:facebook'
   },
   {
-    name: 'LinkedIn',
-    href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
-    icon: 'mdi:linkedin'
-  },
-  {
     name: 'Instagram',
-    href: 'https://www.instagram.com/lavilleavelolyon',
+    href: 'https://www.instagram.com/ocivelo_saint_etienne',
     icon: 'mdi:instagram'
   },
   {
     name: 'Site web',
-    href: 'https://lavilleavelo.org/',
+    href: 'https://ocivelo.fr/',
     icon: 'mdi:link'
   },
   {
     name: 'Email',
-    href: 'mailto:contact_at_lavilleavelo.org',
+    href: 'mailto:contact_at_ocivelo.org',
     icon: 'mdi:email-outline'
   }
 ];
