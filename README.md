@@ -3,12 +3,11 @@
 ## Qu'est-ce que Cyclopolis ?
 Il s'agit d'une plateforme web permettant la visualisation d'un projet de réseau cyclable structurant.
 
-Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo", cette plateforme a pour objectif principal de suivre le développement du projet des "Voies Lyonnaises".
+Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo" qui a été dupliquée avec leur autorisation par Ocivélo sur la métropole stéphanoise, cette plateforme a pour objectif principal de suivre le développement du projet du plan vélo de la métropole Stéphanoise".
 
 On y retrouve en particulier :
 - une carte intéractive permettant de visualiser les tracés des voies cyclables.
 - une page détaillée sur chacune des voies cyclables.
-- des analyses de traffic à partir des compteurs à vélo de la métropole lyonnaise.
 
 ## Est-il possible de réutiliser Cyclopolis pour un autre projet ?
 

@@ -87,7 +87,7 @@ Toutes les données de Cyclopolis sont stockées dans le code, dans le dossier *
 On y retrouve plusieurs sous-dossiers :
 - **/blog** - contient les articles du blog.
 - **/compteurs** - contient le relevé des compteurs vélo lyonnais.
-- **/voies-cyclables** - contient le tracé et le descriptif de chacune des Voies Lyonnaises (pistes cyclables structurantes).
+- **/voies-cyclables** - contient le tracé et le descriptif de chacune des Voies (pistes cyclables structurantes).
 
 
 Le plus intéressant ici, c'est donc le dossier **/content/voies-cyclables**. Il contient :
