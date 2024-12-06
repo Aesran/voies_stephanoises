@@ -5,9 +5,9 @@
           "type": "Feature",
            "properties": {
             "id": "Saint-Just-St-Rambert",
-            "line": 19,
+            "line": 11,
             "name": "Saint-Just-St-Rambert",
-            "status": "wip",
+            "status": "done",
             "type": "voie-verte",
             "link": ""
           },
@@ -77,7 +77,7 @@
                 "type": "Feature",
                  "properties": {
                   "id": "Saint-Just-St-Rambert->Andrézieux",
-                  "line": 19,
+                  "line": 11,
                   "name": "Saint-Just-St-Rambert->Andrézieux",
                   "status": "postponed",
                   "type": "inconnu",
@@ -105,7 +105,7 @@
                     "type": "Feature",
                      "properties": {
                       "id": "Av_de_l'Europe",
-                      "line": 19,
+                      "line": 11,
                       "name": "Av de l'Europe",
                       "status": "wip",
                       "type": "bidirectionnelle",
@@ -133,7 +133,7 @@
                         "type": "Feature",
                          "properties": {
                           "id": "La_Chapelle",
-                          "line": 19,
+                          "line": 11,
                           "name": "La Chapelle",
                           "status": "postponed",
                           "type": "inconnu",
@@ -185,7 +185,7 @@
                             "type": "Feature",
                              "properties": {
                               "id": "Traveresée_de_l'autoroute",
-                              "line": 19,
+                              "line": 11,
                               "name": "Traveresée de l'autoroute",
                               "status": "wip",
                               "type": "bidirectionnelle",
@@ -249,7 +249,7 @@
                                 "type": "Feature",
                                  "properties": {
                                   "id": " Av_Hélène_Boucher",
-                                  "line": 19,
+                                  "line": 11,
                                   "name": " Av Hélène Boucher",
                                   "status": "planned",
                                   "type": "bidirectionnelle",
@@ -305,7 +305,7 @@
                                     "type": "Feature",
                                      "properties": {
                                       "id": " Veauche",
-                                      "line": 19,
+                                      "line": 11,
                                       "name": " Veauche",
                                       "status": "unknown",
                                       "type": "inconnu",
@@ -385,7 +385,7 @@
                                         "type": "Feature",
                                          "properties": {
                                           "id": "Route_de_la_Gare",
-                                          "line": 19,
+                                          "line": 11,
                                           "name": " Route_de_la_Gare",
                                           "status": "postponed",
                                           "type": "inconnu",
@@ -449,7 +449,7 @@
                                             "type": "Feature",
                                              "properties": {
                                               "id": "Av_Jean_Monnet",
-                                              "line": 19,
+                                              "line": 11,
                                               "name": "Av Jean Monnet",
                                               "status": "planned",
                                               "type": "bidirectionnelle",

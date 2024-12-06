@@ -1,6 +1,6 @@
 ---
-name: Voie Stéphanoise 9
-line: 9
+name: Voie Stéphanoise 12
+line: 12
 from: Centre ville
 to: St Victor Sur Loire
 description: Voie prémétant d'aller jusqu'au bors de la Loire.

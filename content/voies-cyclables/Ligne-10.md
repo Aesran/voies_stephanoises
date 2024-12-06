@@ -1,6 +1,6 @@
 ---
-name: Voie Stéphanoise 18
-line: 18
+name: Voie Stéphanoise 10
+line: 10
 from: CHU
 to: Andrézieux
 description: Axe vélo Nord – Sud de la traversée de Saint Etienne. Elle suit la ligne T1 du tram et parcours la ville du nord-ouest depuis l'hopital nord jusqu'à solaure au sud-est.

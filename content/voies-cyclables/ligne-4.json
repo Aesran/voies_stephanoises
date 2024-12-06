@@ -5,7 +5,7 @@
         "type": "Feature",
          "properties": {
           "id": "Rue_Barrouin",
-          "line": 11,
+          "line": 4,
           "name": "Rue Barrouin",
           "status": "postponed",
           "type": "inconnu",
@@ -41,9 +41,10 @@
         "type": "Feature",
          "properties": {
           "id": "Rue_Scheurer_Kestner",
-          "line": 11,
+          "line": 4,
           "name": "Rue Scheurer Kestner",
           "status": "done",
+          "doneAt": "01/01/2016", 
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -93,9 +94,10 @@
         "type": "Feature",
          "properties": {
           "id": "Quartier_Soleil",
-          "line": 11,
+          "line": 4,
           "name": "Quartier Soleil",
           "status": "done",
+          "doneAt": "01/01/2019", 
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -141,7 +143,7 @@
         "type": "Feature",
          "properties": {
           "id": "Bd_Fauriat",
-          "line": 11,
+          "line": 4,
           "name": "Bd Fauriat",
           "status": "postponed",
           "type": "inconnu",
@@ -177,7 +179,7 @@
         "type": "Feature",
          "properties": {
           "id": "Bd_38_Régiment_d_infanterie",
-          "line": 11,
+          "line": 4,
           "name": "Bd 38 Régiment d'infanterie",
           "status": "planned",
           "type": "inconnu",
@@ -221,7 +223,7 @@
         "type": "Feature",
          "properties": {
           "id": "Bd_Normandie_Niemen",
-          "line": 11,
+          "line": 4,
           "name": "Bd Normandie Niemen",
           "status": "planned",
           "type": "inconnu",
@@ -269,7 +271,7 @@
         "type": "Feature",
          "properties": {
           "id": "Rue_de_Terrenoire",
-          "line": 11,
+          "line": 4,
           "name": "Rue de Terrenoire",
           "status": "postponed",
           "type": "inconnu",
@@ -297,9 +299,10 @@
         "type": "Feature",
          "properties": {
           "id": "Rue_Pierre_Loti",
-          "line": 11,
+          "line": 4,
           "name": "Rue Pierre Loti",
           "status": "done",
+          "doneAt": "01/01/2023", 
           "type": "bilaterale",
           "link": ""
         },
@@ -333,7 +336,7 @@
         "type": "Feature",
          "properties": {
           "id": "Bd_de_La_Palle",
-          "line": 11,
+          "line": 4,
           "name": "Bd de La Palle",
           "status": "postponed",
           "type": "bidirectionnelle",
@@ -365,7 +368,7 @@
         "type": "Feature",
          "properties": {
           "id": "Colonel_Marey",
-          "line": 11,
+          "line": 4,
           "name": "Colonel Marey",
           "status": "done",
           "type": "bidirectionnelle",

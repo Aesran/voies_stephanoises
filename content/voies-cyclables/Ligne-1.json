@@ -108,6 +108,7 @@
           "line": 1,
           "name": "Rue du 11 Novembre",
           "status": "done",
+          "doneAt": "01/01/1997",
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -152,6 +153,7 @@
           "line": 1,
           "name": "Rue Edouard Vaillant",
           "status": "done",
+          "doneAt": "01/01/2023",          
           "type": "bidirectionnelle",
           "link": ""
         },
@@ -480,6 +482,7 @@
           "line": 1,
           "name": "Bas de Bergson",
           "status": "done",
+          "doneAt": "31/12/2022",
           "type": "bidirectionnelle",
           "link": ""
         },
