@@ -1,6 +1,6 @@
 ---
-name: Voie Stéphanoise 19
-line: 19
+name: Voie Stéphanoise 11
+line: 11
 from: Saint-Just-Saint-Rambert 
 to: Saint-Galmier
 description: L’axe vélo structurant PLAINE reliant Saint-Just-Saint-Rambert à Saint-Galmier, traversant trois collectivités, Loire Forez, Saint-Etienne Métropole et Forez EST.
