@@ -12,7 +12,7 @@
             >
             <img
               class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
+              src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-Logo-obs-des-amenagements.png"
               alt="logo cyclopolis"
             >
           </NuxtLink>
